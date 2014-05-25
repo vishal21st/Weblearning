@@ -1,0 +1,1 @@
+twttr.setFollowersCountAndFollowing([{"following":false,"id":"173955238","screen_name":"narrowd","name":"Nick Jones","protected":false,"followers_count":4725,"formatted_followers_count":"4,725 followers","age_gated":false}]);
